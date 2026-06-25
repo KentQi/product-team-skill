@@ -164,7 +164,8 @@ cp -r product-team-skill/references ~/.claude/skills/product-team/
 
 ## 📮 联系方式
 
-- **作者**：KentQi
+- **作者**：Kent
+- **邮箱**：kirroyu@126.com
 - **Issues**：[GitHub Issues](../../issues)
 - **安全问题**：见 [SECURITY.md](SECURITY.md)
 
@@ -174,6 +175,6 @@ cp -r product-team-skill/references ~/.claude/skills/product-team/
 
 **[⭐ Star](../../stargazers) · [🍴 Fork](../../fork) · [📥 Download](../../archive/refs/heads/main.zip)**
 
-Made with ❤️ by [KentQi](https://github.com/KentQi)
+Made with ❤️ by [Kent](https://github.com/KentQi)
 
 </div>
